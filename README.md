@@ -6,8 +6,7 @@ s
 d
 f
 fds
-trefd
-dsa
+trefdTR
 tre
 RE
 W
